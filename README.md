@@ -7,6 +7,8 @@ Meu nome é Tiago Luiz Pereira Silva, sou graduado em Análise e Desenvolvimento
 - HTML
 - CSS 
 - JavaScript
+- React
+- Nodejs
 - Git
 
 ## 🌱 Estou Aprendendo Atualmente
