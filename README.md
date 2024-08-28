@@ -1,19 +1,23 @@
 
-# Olá! 👋
+# Olá, eu sou o Tiago! 👋
 
-Meu nome é Tiago Luiz Pereira Silva, sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). Atualmente estou estudando na Rocketseat.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). Atualmente estou estudando na Rocketseat.
 
 ## 🚀 Skills e Tecnologias
-- HTML
-- CSS 
-- JavaScript
-- React
-- Nodejs
-- Git
+- Frontend
+    - HTML
+    - CSS 
+    - JavaScript
+    - React
+- Backend
+    - Nodejs
+- Versionamento de código
+  - Git
+  - GitHub
 
 ## 🌱 Estou Aprendendo Atualmente
 - Formação Web Fullstack na Rocketseat
-  - Aprendendo sobre desenvolvimento de aplicações web com Node.js, React, React Native, entre outras tecnologias
+  - Aprendendo sobre desenvolvimento de aplicações web com Node.js, React, React Native, TypeScript entre outras tecnologias.
 
  
 
